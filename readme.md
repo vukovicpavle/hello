@@ -18,7 +18,7 @@ hello("World");
 
 ## API
 
-### hello(name)
+### `hello(name)`
 
 Say hello to the name provided.
 
